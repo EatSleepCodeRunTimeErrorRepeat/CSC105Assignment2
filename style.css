@@ -1,0 +1,15 @@
+parent{
+  position: absolute;
+}
+
+img{
+  float: left;
+  
+}
+
+p.words {
+  position: relative;
+  line-height: 1;
+}
+
+
